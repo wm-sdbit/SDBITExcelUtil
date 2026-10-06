@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">convertExcelToCsv</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFNYXAgZGF0YU1hcCA9IG5ldyBJRGF0YU1hcChwaXBlbGluZSk7CgpPYmplY3QgZmlsZVhM
+U1ggPSBkYXRhTWFwLmdldCgiZmlsZUV4Y2VsIik7CmJvb2xlYW4gZW5hYmxlTG9nZ2luZyA9IEJv
+b2xlYW4ucGFyc2VCb29sZWFuKGRhdGFNYXAuZ2V0QXNTdHJpbmcoImVuYWJsZUxvZ2dpbmciKSk7
+CgphZGRMb2dNZXNzYWdlKCJTdGFydCBjb252ZXJ0aW5nIEV4Y2VsIHRvIENTViIsIGVuYWJsZUxv
+Z2dpbmcpOwoKU3RyaW5nIGNzdiA9ICIiOwoKdHJ5IHsKCUlucHV0U3RyZWFtIGlzID0gbmV3IEJ5
+dGVBcnJheUlucHV0U3RyZWFtKChieXRlW10pIGZpbGVYTFNYKTsKCgljc3YgPSBjb252ZXJ0KGlz
+LCBPcHRpb25hbC5lbXB0eSgpLCBPcHRpb25hbC5lbXB0eSgpLCBPcHRpb25hbC5lbXB0eSgpLCBw
+aXBlbGluZSk7Cn0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCWFkZExvZ01lc3NhZ2UoZS5nZXRN
+ZXNzYWdlKCksIHRydWUpOwoJCgl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlKTsKfQoKYWRk
+TG9nTWVzc2FnZSgiRXhjZWwgZmlsZSBjb252ZXJ0ZWQgdG8gQ1NWIiwgZW5hYmxlTG9nZ2luZyk7
+CQoKZGF0YU1hcC5wdXQoImZpbGVDU1YiLCBjc3YpOw==</value>
+</Values>
